@@ -1,1 +1,2 @@
-# Extension for Google Chrome for checking words directly to wikipedia.
+# Extension 
+Extension for Google Chrome for checking words directly from wikipedia.
